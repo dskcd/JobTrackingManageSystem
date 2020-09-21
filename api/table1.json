@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "name": "北京柯蓝有限责任公司",
+      "people": "赵海",
+      "schoolpeople": "赵海",
+      "time": "6月",
+      "hangye": "金融",
+      "score": 57
+    }
+  ]
+}
